@@ -1,0 +1,16 @@
+.btn-logout{
+
+    color:white;
+    background-color: rgb(230, 147, 53);
+    border: none;
+    border-radius: 5px;
+    padding: 1px 10px;
+    font-weight: 500;
+  }
+
+  .nav-btn:hover{
+      background-color:rgba(230, 171, 116, 0.247);
+      padding: 3px 7px;
+      border-radius: 5px;
+
+  }

@@ -1,0 +1,21 @@
+
+.user-review {
+    overflow-y: scroll;
+}
+
+.user-review::-webkit-scrollbar {
+    width:10px;
+    height: 10px;
+}
+
+.user-review::-webkit-scrollbar-thumb {
+    border-radius:10px; 
+}
+
+.review-text{
+    overflow-y: scroll;
+}
+
+.review-text::-webkit-scrollbar {
+    width:0px;
+}
