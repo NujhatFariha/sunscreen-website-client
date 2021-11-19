@@ -4,6 +4,7 @@ import Navbar from '../Home/Navbar/Navbar';
 import useAuth from '../../Hooks/useAuth';
 import { useHistory, useLocation } from 'react-router';
 import Footer from '../Home/Footer/Footer';
+import MakeAdmin from '../MakeAdmin/MakeAdmin';
 
 
 const Login = () => {
