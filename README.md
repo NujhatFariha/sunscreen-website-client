@@ -8,7 +8,3 @@ Website Description :
 ④ User can sign in and login in the website and purchase their desired product.
 ⑤ User can also view reviews of other users.
 
-# Live Website Link : https://sunscreen-website.web.app
-
-# niche-website-client-side-nujhatfariha049
-# niche-website-client-side-nujhatfariha049
